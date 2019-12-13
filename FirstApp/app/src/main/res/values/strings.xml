@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Button</string>
+    <string name="textview">textView</string>
+    <string name="hello_penda">Hello Penda!!!</string>
+    <string name="hello_penda_">Hello Penda !!!</string>
+    <string name="hello">Hello Penda!</string>
+    <string name="appuyer">Appuyer</string>
+    <string name="todo">TODO</string>
+</resources>
